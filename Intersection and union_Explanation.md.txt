@@ -1,0 +1,5 @@
+Set items are unordered, unchangeable, and do not allow duplicate values.
+
+Create two sets with values of Linked list elements
+
+Intersection and Union tasks both has Time Complexity O(n) & Space Complexity O(n)

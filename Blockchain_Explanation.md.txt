@@ -1,0 +1,4 @@
+There is Block class and Blockchain class, which acts like a Linked list
+Add method adds Block at the end after traversing to the end of linked list, same with print
+
+Time Complexity O(n) and space complexity O(n)

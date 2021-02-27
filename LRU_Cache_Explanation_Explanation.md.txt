@@ -1,0 +1,6 @@
+The choice of using OrderedDict preserves the order in which the keys are inserted. 
+A regular dict doesn’t track the insertion order, and iterating it gives the values in an arbitrary order. 
+By contrast, the order the items are inserted is remembered by OrderedDict.
+This allows us to set or get the key value pairs in one step.
+
+Time complexity of get() and set() is O(1) and space complexity of LRU Cache is O(n)
