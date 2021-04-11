@@ -1,4 +1,4 @@
-# Udacity-Data-Structures-and-Algorithms
+# Udacity-Data-Structures-and-Algorithms (i.Data Structures)
 
 These projects cover all the concepts below: <br />
 -Arrays and Linked lists  <br />
